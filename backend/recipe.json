@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Classic Omelette",
+    "ingredients": ["eggs", "salt", "pepper", "butter"],
+    "instructions": "Beat eggs with salt and pepper, melt butter in pan, cook eggs until set. Fold and serve.",
+    "time": "10 min"
+  },
+  {
+    "title": "Tomato Pasta",
+    "ingredients": ["pasta", "tomato", "olive oil", "garlic", "salt"],
+    "instructions": "Cook pasta. Sauté garlic in olive oil, add tomato and salt, simmer. Toss with pasta.",
+    "time": "20 min"
+  },
+  {
+    "title": "Avocado Toast",
+    "ingredients": ["bread", "avocado", "salt", "pepper", "lemon"],
+    "instructions": "Toast bread, mash avocado with lemon, salt, pepper. Spread on toast.",
+    "time": "5 min"
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "ingredients": ["vegetable", "soy sauce", "garlic", "oil"],
+    "instructions": "Stir fry chopped vegetables in oil, add garlic and soy sauce. Serve hot.",
+    "time": "15 min"
+  },
+  {
+    "title": "Cheesy Potato Bake",
+    "ingredients": ["potato", "cheese", "milk", "butter", "salt", "pepper"],
+    "instructions": "Slice potatoes, layer with cheese and seasoning. Pour over milk, dot butter, bake until golden.",
+    "time": "45 min"
+  },
+  {
+    "title": "Simple Chicken Rice",
+    "ingredients": ["chicken", "rice", "salt", "pepper", "onion"],
+    "instructions": "Cook chicken and onion, add rice and seasoning, simmer until done.",
+    "time": "35 min"
+  },
+  {
+    "title": "Mushroom Risotto",
+    "ingredients": ["rice", "mushroom", "onion", "garlic", "cheese", "broth"],
+    "instructions": "Sauté onion and mushroom, add rice, gradually add broth, finish with cheese.",
+    "time": "40 min"
+  },
+  {
+    "title": "Egg Fried Rice",
+    "ingredients": ["rice", "eggs", "soy sauce", "vegetable", "oil"],
+    "instructions": "Scramble eggs, stir fry with rice, vegetables, and soy sauce.",
+    "time": "15 min"
+  },
+  {
+    "title": "Tuna Salad",
+    "ingredients": ["tuna", "mayonnaise", "lettuce", "bread", "onion"],
+    "instructions": "Mix tuna, mayo, chopped onion, serve over lettuce or on bread.",
+    "time": "10 min"
+  },
+  {
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "instructions": "Butter bread, sandwich cheese, grill until golden.",
+    "time": "8 min"
+  }
+]
